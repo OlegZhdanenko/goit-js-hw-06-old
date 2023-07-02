@@ -12,3 +12,4 @@ function changeColor() {
   this.style.backgroundColor = getRandomHexColor();
   textColor.textContent = getRandomHexColor();
 }
+// fix
